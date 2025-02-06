@@ -1,0 +1,44 @@
+.font-size-50 {
+  font-size: 50px;
+}
+.font-size-20 {
+  font-size: 20px;
+}
+.h-100 {
+  height: 100px;
+}
+.h-300 {
+  height: 300px;
+}
+
+.w-100 {
+  width: 100px;
+}
+.weight-200 {
+  font-weight: 200;
+}
+.weight-400 {
+  font-weight: 400;
+}
+.ma-20 {
+  margin: 20px;
+}
+.ma-10 {
+  margin: 10px;
+}
+
+.ml-20 {
+  margin-left: 20px;
+}
+
+.mt-80 {
+  margin-top: 80px;
+}
+
+.radius-10 {
+  border-radius: 10px;
+}
+
+.text-white {
+  color: white;
+}
